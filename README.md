@@ -8,7 +8,7 @@ This repository contains basic TypeScript programs demonstrating fundamental con
 - Node.js
 
 ## Programs Included
-- Variables and Data Types
+- Variables 
 - Functions
 - Interfaces
 - Classes and Objects
